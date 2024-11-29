@@ -2,6 +2,8 @@ While learning MongoDB and JWT, I worked on a project that provided valuable han
 During this process, I discovered that React Query is an incredibly efficient tool for data fetching.
 
 MERN Stack Project: Build and Deploy a Twitter Clone From Scratch | JWT
+Deployed on render
+Check out the application: https://xclone-backend.onrender.com
 
 Some Features:
 
